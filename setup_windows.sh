@@ -1,26 +1,19 @@
-#!/usr/bin/env bash
-
-set -euo pipefail
-
-# Cria o ambiente virtual no Windows.
+Write-Host "Criando ambiente virtual..."
 python -m venv venv
 
-# Ativa o ambiente virtual no Git Bash/WSL.
-source venv/Scripts/activate
+Write-Host "Ativando ambiente e instalando dependências..."
+.\venv\Scripts\Activate.ps1
+python -m pip install --upgrade pip
+python -m pip install opencv-python ultralytics pandas numpy matplotlib pycocotools
 
-# Instala as bibliotecas necessárias para o projeto.
-python -m pip install opencv-python
-python -m pip install ultralytics
-python -m pip install pandas
-python -m pip install numpy
-python -m pip install kaggle
+Write-Host "Baixando COCO dataset..."
+Invoke-WebRequest -Uri "http://images.cocodataset.org/zips/val2017.zip" -OutFile "val2017.zip"
+Invoke-WebRequest -Uri "http://images.cocodataset.org/zips/test2017.zip" -OutFile "test2017.zip"
+Invoke-WebRequest -Uri "http://images.cocodataset.org/annotations/annotations_trainval2017.zip" -OutFile "annotations_trainval2017.zip"
 
-# Baixa os arquivos do COCO dataset.
-curl -L -o val2017.zip http://images.cocodataset.org/zips/val2017.zip
-curl -L -o test2017.zip http://images.cocodataset.org/zips/test2017.zip
-curl -L -o annotations_trainval2017.zip http://images.cocodataset.org/annotations/annotations_trainval2017.zip
+Write-Host "Descompactando arquivos..."
+Expand-Archive -Path "val2017.zip" -DestinationPath "." -Force
+Expand-Archive -Path "test2017.zip" -DestinationPath "." -Force
+Expand-Archive -Path "annotations_trainval2017.zip" -DestinationPath "." -Force
 
-# Descompacta os arquivos baixados.
-unzip -o val2017.zip
-unzip -o test2017.zip
-unzip -o annotations_trainval2017.zip
+Write-Host "Setup concluído!"
