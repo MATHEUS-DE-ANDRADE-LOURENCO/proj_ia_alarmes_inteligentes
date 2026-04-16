@@ -6,12 +6,14 @@ Inteligência Artificial e Visão Computacional.
 
 ## 👥 Grupo
 
-ATENÇÃO: No grupo, está sinalizada a(s) disciplina(s) que cada membro está executando para o trabalho.
+⚠️ **ATENÇÃO:** No grupo, está sinalizada a(s) disciplina(s) que cada membro está executando para o trabalho.
 
-Legenda:
+**Legenda:**
 
 - IA: Inteligência Artificial
 - CV: Computação Visual
+
+**Integrantes**
 
 - Lucas Tuon de Matos - 10417987 (CV)
 - Matheus de Andrade Lourenço - 10419691 (IA/CV)
@@ -45,9 +47,9 @@ A proposta do grupo é apresentar todo o fluxo de implementação, desde o enten
 
 Execute o script correspondente ao seu sistema operacional para preparar o ambiente local.
 
-Windows: [powershell -ExecutionPolicy Bypass -File .\setup_windows.ps1]
+**Windows:** [powershell -ExecutionPolicy Bypass -File .\setup_windows.ps1]
 
-Linux: [chmod +x setup_linux.sh && ./setup_linux.sh]
+**Linux:** [chmod +x setup_linux.sh && ./setup_linux.sh]
 
 Após o término das instalações, sua máquina estará pronta para executar os notebooks.
 
