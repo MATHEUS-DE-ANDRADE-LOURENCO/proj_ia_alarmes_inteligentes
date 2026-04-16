@@ -4,7 +4,7 @@ python -m venv venv
 Write-Host "Ativando ambiente e instalando dependências..."
 .\venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
-python -m pip install opencv-python ultralytics pandas numpy matplotlib pycocotools
+python -m pip install opencv-python ultralytics pandas numpy matplotlib pycocotools kagglehub
 
 Write-Host "Baixando COCO dataset..."
 Invoke-WebRequest -Uri "http://images.cocodataset.org/zips/val2017.zip" -OutFile "val2017.zip"

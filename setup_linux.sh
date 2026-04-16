@@ -7,8 +7,7 @@ source venv/bin/activate
 
 echo "Instalando dependências..."
 python -m pip install --upgrade pip
-python -m pip install opencv-python ultralytics pandas numpy matplotlib pycocotools
-
+python -m pip install opencv-python ultralytics pandas numpy matplotlib pycocotools kagglehub
 echo "Baixando COCO dataset (Val e Test)..."
 wget -c http://images.cocodataset.org/zips/val2017.zip
 wget -c http://images.cocodataset.org/zips/test2017.zip

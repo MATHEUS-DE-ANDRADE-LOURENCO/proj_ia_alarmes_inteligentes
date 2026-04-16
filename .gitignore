@@ -4,11 +4,6 @@ venv/
 # Datasets (Arquivos ZIP)
 *.zip
 
-# Pastas descompactadas do COCO
-val2017/
-test2017/
-annotations/
-
 # Arquivos de log ou cache do Python
 __pycache__/
 *.log
