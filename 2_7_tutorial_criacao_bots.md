@@ -55,13 +55,13 @@ print(r.json())
 
 Se aparecer `"ok": true`, o bot esta pronto para uso. 🎉
 
-## 5) Conectar ao programa de alerta 🔔
+## 5) Conectar ao projeto 🔔
 
 1. No codigo do projeto, substitua `TOKEN` e `CHAT_ID` pelos seus valores.
 2. No ponto em que o alerta for gerado (por exemplo, deteccao de fraude), envie a mensagem para o Telegram.
 3. Exemplo de mensagem de alerta:
 
-- `🚨 Fraude detectada! Verifique imediatamente o painel.`
+- `🚨 Pessoa detectada!`
 
 ## 6) Boas praticas de seguranca 🔒
 
@@ -87,4 +87,4 @@ resp = enviar_alerta("🚨 Alerta automatico do sistema")
 print(resp)
 ```
 
-Pronto. Seu bot esta configurado para receber alertas automaticos do sistema. 🚀
+Pronto. Seu bot esta configurado para enviar alertas automaticos. 🚀
