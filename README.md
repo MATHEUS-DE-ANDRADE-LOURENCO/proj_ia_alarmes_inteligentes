@@ -71,6 +71,7 @@ Recomendação importante:
 - Matheus de Andrade Lourenço
     - Gerenciamento e formatação do Repositório
     - Criação do README
+    - Implementação da Avaliação do Modelo
 - Murillo Cardoso Ferreira
     - {INSERIR AQUI}
     - ...
