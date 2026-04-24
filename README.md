@@ -66,7 +66,7 @@ Recomendação importante:
 ## 🧩 Responsabilidades do Grupo
 
 - Lucas Tuon de Matos
-    - {INSERIR AQUI}
+    - Demonstração do Modelo
     - ...
 - Matheus de Andrade Lourenço
     - Gerenciamento e formatação do Repositório
