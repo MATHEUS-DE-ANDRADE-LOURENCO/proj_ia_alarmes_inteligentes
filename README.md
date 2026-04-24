@@ -42,6 +42,7 @@ A proposta do grupo é apresentar todo o fluxo de implementação, desde o enten
 - [setup_windows.ps1](setup_windows.ps1): script para Windows com o mesmo objetivo de preparação de ambiente e download de dependências/dados.
 - [1_analise_exploratoria.ipynb](1_analise_exploratoria.ipynb): notebook de análise exploratória, leitura das anotações e compreensão da estrutura dos dados.
 - [2_implementacao_projeto.ipynb](2_implementacao_projeto.ipynb): notebook principal de implementação do sistema de detecção e alerta (imagem e webcam).
+- [2_7_tutorial_criacao_bots.md](2_7_tutorial_criacao_bots.md): markdown com tutorial para criação de bots no Telegram, a ser consultado durante a execução do arquivo de implementação do projeto.
 
 ## 🛠️ Como Configurar o Ambiente
 
