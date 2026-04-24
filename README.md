@@ -68,11 +68,11 @@ Recomendação importante:
 
 - Lucas Tuon de Matos
     - Demonstração do Modelo
-    - ...
 - Matheus de Andrade Lourenço
     - Gerenciamento e formatação do Repositório
     - Criação do README
-    - Implementação da Avaliação do Modelo
+    - Avaliação do Modelo
+    - Implementação dos Alertas (2 níveis)
 - Murillo Cardoso Ferreira
     - {INSERIR AQUI}
     - ...
