@@ -7,8 +7,8 @@ Este guia mostra como criar um bot no Telegram e conectar ao programa de alerta 
 1. Abra o Telegram e procure por **@BotFather**.
 2. Envie o comando `/start`.
 3. Envie o comando `/newbot`.
-4. Defina o nome do bot (exemplo: **Alerta de Fraudes**).
-5. Defina um username unico terminado em `bot` (exemplo: `alerta_fraudes_bot`).
+4. Defina o nome do bot (exemplo: **Alerta Inteligentes**).
+5. Defina um username unico terminado em `bot` (exemplo: `alerta_inteligente_bot`).
 6. Copie o **TOKEN** retornado pelo BotFather (formato parecido com `123456:ABC...`).
 
 > 🔐 Guarde o token com cuidado. Nao publique em repositorio.
