@@ -74,8 +74,7 @@ Recomendação importante:
     - Avaliação do Modelo
     - Implementação dos Alertas (2 níveis)
 - Murillo Cardoso Ferreira
-    - {INSERIR AQUI}
-    - ...
+    - Notebook de Análise Exploratória
 - Pietro Zanaga Neto
     - {INSERIR AQUI}
     - ...
