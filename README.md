@@ -26,11 +26,13 @@ Esse projeto consiste em um tutorial teórico e prático sobre o funcionamento d
 
 ## 🗂️ Organização do Repositório
 
-> 📁 1_TEORIA
-    Contém arquivo .md com síntese teórica sob o tema. Comece em [contexto_teorico.md](1_TEORIA/contexto_teorico.md)
+> 📁 **1_TEORIA**
 
-> 📁 2_PRÁTICA
-    Contém projeto de exemplo de implementação de alertas inteligentes. Comece em [0_informacoes_projeto.md](2_PRATICA/0_informacoes_projeto.md)
+Contém arquivo .md com síntese teórica sob o tema. Comece em [contexto_teorico.md](1_TEORIA/contexto_teorico.md)
+
+> 📁 **2_PRÁTICA**
+
+Contém projeto de exemplo de implementação de alertas inteligentes. Comece em [0_informacoes_projeto.md](2_PRATICA/0_informacoes_projeto.md)
 
 ## 🧩 Responsabilidades do Grupo
 
