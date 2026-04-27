@@ -18,11 +18,11 @@ A proposta do grupo é apresentar todo o fluxo de implementação, desde o enten
 
 ## 🧱 Arquitetura
 
-- [setup_linux.sh](1_TEORIA/setup_linux.sh): script para Linux que cria ambiente virtual Python, instala dependências e baixa os arquivos do COCO Dataset necessários ao projeto.
-- [setup_windows.ps1](1_TEORIA/setup_windows.ps1): script para Windows com o mesmo objetivo de preparação de ambiente e download de dependências/dados.
-- [1_analise_exploratoria.ipynb](1_TEORIA/1_analise_exploratoria.ipynb): notebook de análise exploratória, leitura das anotações e compreensão da estrutura dos dados.
-- [2_implementacao_projeto.ipynb](1_TEORIA/2_implementacao_projeto.ipynb): notebook principal de implementação do sistema de detecção e alerta (imagem e webcam).
-- [extra_criacao_bots.md](1_TEORIA/extra_criacao_bots.md): markdown com tutorial para criação de bots no Telegram, a ser consultado durante a execução do arquivo de implementação do projeto.
+- [setup_linux.sh](setup_linux.sh): script para Linux que cria ambiente virtual Python, instala dependências e baixa os arquivos do COCO Dataset necessários ao projeto.
+- [setup_windows.ps1](setup_windows.ps1): script para Windows com o mesmo objetivo de preparação de ambiente e download de dependências/dados.
+- [1_analise_exploratoria.ipynb](1_analise_exploratoria.ipynb): notebook de análise exploratória, leitura das anotações e compreensão da estrutura dos dados.
+- [2_implementacao_projeto.ipynb](2_implementacao_projeto.ipynb): notebook principal de implementação do sistema de detecção e alerta (imagem e webcam).
+- [extra_criacao_bots.md](extra_criacao_bots.md): markdown com tutorial para criação de bots no Telegram, a ser consultado durante a execução do arquivo de implementação do projeto.
 
 ## 🛠️ Como Configurar o Ambiente
 
