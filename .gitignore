@@ -7,3 +7,12 @@ venv/
 # Arquivos de log ou cache do Python
 __pycache__/
 *.log
+
+# runs para métricas
+runs/
+
+# Arquivo JSON com resultado das previsões
+results.json
+
+# Modelo
+yolov8n.pt
