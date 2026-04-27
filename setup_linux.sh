@@ -7,6 +7,6 @@ source venv/bin/activate
 
 echo "Instalando dependências..."
 python -m pip install --upgrade pip
-python -m pip install opencv-python ultralytics pandas numpy matplotlib pycocotools kagglehub requests image
+python -m pip install opencv-python ultralytics pandas numpy matplotlib pycocotools kagglehub requests
 
 echo "Setup concluído com sucesso!"
