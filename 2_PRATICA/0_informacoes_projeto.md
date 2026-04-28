@@ -47,6 +47,8 @@ Recomendação importante:
 
 ## 📌 Fluxo de Execução Recomendado
 
-1. Executar o notebook [1_analise_exploratoria.ipynb](1_analise_exploratoria.ipynb).
+1. Executar o notebook [1_analise_exploratoria.ipynb](1_analise_exploratoria.ipynb)
+   - A intenção é conhecer o dataset que será utilizado, antes da implementação.
 2. Em seguida, executar o notebook [2_implementacao_projeto.ipynb](2_implementacao_projeto.ipynb).
+   - Implementação do alerta passo a passo.
 
