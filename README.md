@@ -44,9 +44,9 @@ Contém projeto de exemplo de implementação de alertas inteligentes. Comece em
     - Implementação dos Alertas (2 níveis)
 - Murillo Cardoso Ferreira
     - Implementação de Notebook de Análise Exploratória
+    - Criação da Síntese Teórica
 - Pietro Zanaga Neto
-    - {INSERIR AQUI}
-    - ...
+    - Gravação e Edição do Vídeo de Apresentação
 
 ## 🎥 Link do Vídeo de Apresentação
 
