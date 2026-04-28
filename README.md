@@ -41,4 +41,4 @@ A construção do sistema foi pensada de forma modular, permitindo que cada etap
 - **Pietro Zanaga Neto**: Gravação e Edição do Vídeo de Apresentação.
 
 ## 🎥 Demonstração
-{INSERIR AQUI O LINK DO VÍDEO}
+https://youtu.be/8qaMqKLJijU
