@@ -1,4 +1,4 @@
-# 🚨 Projeto: Alarmes Inteligentes e a aplicação de Redes Neurais em Computação Visual.
+# 🚨 Projeto: Alarmes Inteligentes utilizando Visão Computacional.
 
 ## 🎓 Disciplinas
 
@@ -22,7 +22,7 @@ Inteligência Artificial e Visão Computacional.
 
 ## 💡 Proposta do Projeto
 
-Esse projeto consiste em um tutorial teórico e prático sobre o funcionamento das Redes Neurais na área de Computação Visual, em conjunto com um exemplo de implementação de um projeto sobre alarmes inteligentes.
+Esse projeto consiste em um tutorial teórico e prático sobre o funcionamento de Alarmes Inteligentes que utilizam Visão Computacional. Esse repositório possui tanto uma síntese teórica do funcionamento como uma implementação prática de como funciona.
 
 ## 🗂️ Organização do Repositório
 
