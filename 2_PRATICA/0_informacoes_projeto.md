@@ -2,7 +2,7 @@
 
 ## 💡 Proposta da implementação
 
-Esta implementação consiste em um protótipo de alerta inteligente com Inteligência Artificial e Visão Computacional. O objetivo é exemplificar o uso de Redes Neurais e Computação Visual no ramo da segurança.
+Esta implementação consiste em um protótipo de alerta inteligente com Inteligência Artificial e Visão Computacional. O objetivo é apresentar de forma prática o funcionamento de alertas com recursos de Visão Computacional.
 
 **Dados utilizados:**
 
