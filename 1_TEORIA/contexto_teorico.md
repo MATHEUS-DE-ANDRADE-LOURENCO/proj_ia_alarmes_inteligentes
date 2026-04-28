@@ -1,4 +1,4 @@
-# 🧠 Síntese Teórica: A Aplicação de Redes Neurais em Computação Visual
+# 🧠 Síntese Teórica: Funcionamento de Alarmes com Visão Computacional
 
 ## O que são Redes Neurais?
 
