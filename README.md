@@ -40,5 +40,5 @@ A construção do sistema foi pensada de forma modular, permitindo que cada etap
 - **Murillo Cardoso Ferreira**: Análise Exploratória e Criação da Síntese Teórica.
 - **Pietro Zanaga Neto**: Gravação e Edição do Vídeo de Apresentação.
 
-## 🎥 Demonstração
-https://youtu.be/8qaMqKLJijU
+## 🎥 Vídeo de Apresentação 
+https://www.youtube.com/watch?v=zTU-nCX9e-g
